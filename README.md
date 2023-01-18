@@ -1,6 +1,6 @@
 # IPFS Pinning GitHub Action
 ![hero image](preview-image.png)
-This GitHub Action helps you to publish your website/assets to IPFS Pinning Services (e.g. [Pinata](https://pinata.cloud/documentation#PinningServicesAPI)) using the official [IPFS Remote Pinning API](https://ipfs.github.io/pinning-services-api-spec/).
+This GitHub Action helps you to publish your website/assets to IPFS Pinning Services (e.g. [Pinata](https://pinata.cloud/documentation#PinningServicesAPI) or [Filebase](https://docs.filebase.com/api-documentation/ipfs-pinning-service-api) using the official [IPFS Remote Pinning API](https://ipfs.github.io/pinning-services-api-spec/).
 ## Usage
 You can use this Action directly from your GitHub workflow. You can find the required credentials on your Pinning Services Website.
 
